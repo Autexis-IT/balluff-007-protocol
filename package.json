@@ -1,0 +1,10 @@
+{
+    "type": "commonjs",
+    "name": "balluff-007-protocol",
+    "version": "0.0.1",
+    "main": "lib/index.js",
+    "repository": "https://github.com/Autexis-IT/balluff-007-protocol.git",
+    "author": "she <she@autexis.ch>",
+    "license": "MIT",
+    "private": false
+}
