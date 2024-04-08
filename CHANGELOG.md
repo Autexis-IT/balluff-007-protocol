@@ -25,4 +25,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Updated
 #### Removed
 
-[Unreleased]: https://github.com/Autexis-IT/balluff-rfid/compare/0.0.1...development
+[Unreleased]: https://github.com/Autexis-IT/balluff-007-protocol/compare/0.0.1...development
