@@ -1,6 +1,6 @@
-const { connect: connectBaluff, statusCodes, errorFromStatusCode } = require("../lib/index.js");
+const { connect: connectBalluff, statusCodes, errorFromStatusCode } = require("../lib/index.js");
 
-const conn = connectBaluff({
+const conn = connectBalluff({
     ipAddress: "192.168.10.2",
     port: 10003,
 
@@ -46,7 +46,7 @@ const conn = connectBaluff({
     },
 
     onError: (err) => {
-        console.error("baluff error", err);
+        console.error("balluff error", err);
         conn.close();
     }
 });
